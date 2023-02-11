@@ -18,7 +18,7 @@ Then, you can run the website with build-in `hugo` server locally:
 $ hugo serve
 ```
 
-[`localhost:1313`](http://localhost:1313) will display the website.
+[localhost:1313](http://localhost:1313) will display the website.
 
 ## Feedback
 
