@@ -17,4 +17,4 @@ However, the assignment can be modified to be used in other courses where knowle
 
 ## Video Explanation of Running the Code of Conduct Activity
 
-[![Explanation of running code the conduct activity](https://github.com/CraftingSoftware/learncraftingsoftware.com/images/code-of-conduct.png)](https://www.youtube.com/watch?v=rmX7gCEkpQw) "Running Code of Conduct")
+[![Explanation of running code the conduct activity](https://github.com/CraftingSoftware/learncraftingsoftware.com/blob/main/images/code-of-conduct.png)](https://www.youtube.com/watch?v=rmX7gCEkpQw) "Running Code of Conduct"]
