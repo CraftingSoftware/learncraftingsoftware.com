@@ -1,4 +1,4 @@
-baseURL = "https://learncraftingsoftware.netlify.app/" #https://learncraftingsoftware.com"
+baseURL = "https://learncraftingsoftware.com"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
