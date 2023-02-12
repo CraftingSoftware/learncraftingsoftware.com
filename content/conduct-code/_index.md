@@ -1,5 +1,5 @@
 +++ 
-title = "Code of Conduct Activity"
+title = "Code of Conduct"
 description = "Code of Conduct Activity for Software Engineering" 
 weight = 2 
 +++
