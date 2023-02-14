@@ -17,4 +17,4 @@ However, the assignment can be modified to be used in other courses where knowle
 
 ## Video Explanation of Running the Code of Conduct Activity
 
-{{< youtube rmX7gCEkpQw >}} )
+{{< youtube rmX7gCEkpQw >}}
